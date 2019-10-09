@@ -1,5 +1,7 @@
 def new_hash
   # return an empty hash
+  new_hash={:big=> 3, :small=>1}
+  new_hash[big]
 end
 
 def my_hash
