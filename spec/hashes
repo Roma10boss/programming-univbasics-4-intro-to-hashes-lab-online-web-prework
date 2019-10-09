@@ -6,7 +6,7 @@ end
 
 #2
 
-my_hash{"message"=> "hello World"}
-   my_hash
+my_hash{"big"=> 2.45, "small"=> 1.23}
+   my_hash[big]
    
    
