@@ -1,11 +1,13 @@
 def new_hash
   # return an empty hash
-  new_hash={:big=> 3, :small=>1}
-  new_hash[big]
+  new_hash={}
+ puts new_hash
 end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
+  new_hash={:big=> 3, :small=>1}
+  puts new_hash[big]
 end
 
 def pioneer
