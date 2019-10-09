@@ -1,6 +1,12 @@
+#1
 new_hash={
 }
-puts new_hash
+   new_hash
 end
 
-my_hash
+#2
+
+my_hash{"message"=> "hello World"}
+   my_hash
+   
+   
